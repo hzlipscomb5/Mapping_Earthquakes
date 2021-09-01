@@ -128,5 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+leaflet_notes.js
 
 config.js
